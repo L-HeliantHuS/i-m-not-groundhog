@@ -1,4 +1,4 @@
-# 我才不是一只土拨鼠呢  (golang练手项目
+# 我才不是一只土拨鼠呢  (golang练手项目 :sunglasses:
 ---
 
 >使用了go-crud作为后端 go-crud: [https://github.com/bydmm/go-crud](https://github.com/bydmm/go-crud)
